@@ -1,0 +1,33 @@
+# 📄 Note: 
+__Please read the README.md file in each folder carefully to avoid confusion or errors — especially after filling in your credentials like MongoDB URI, Cloudinary keys, or Stripe secrets.__
+
+## 🧑‍💻 Just Want to Try the Frontend Without Hassle?
+
+If you only want to explore the frontend UI without setting up any backend or admin panel,
+you can check out this hassle-free version here:
+
+👉 [E-Commerce Frontend Only](https://github.com/Harshit-HK/E-Commers-App)
+
+It runs smoothly without needing a database or server — perfect for testing UI and design!
+
+ ## About:
+ 
+ working on a full-stack E-Commerce app with:
+
+Frontend: React.js + Tailwind CSS
+
+Backend: Express.js + Node.js
+
+Database: MongoDB Atlas
+
+Image Hosting: Cloudinary
+
+Auth: Admin login with .env credentials
+
+Payments: You mentioned using Stripe
+
+Plus: You're managing product CRUD, admin panel, etc.
+
+/client (frontend)
+/server (backend)
+
