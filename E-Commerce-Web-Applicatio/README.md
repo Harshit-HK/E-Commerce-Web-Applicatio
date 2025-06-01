@@ -10,7 +10,7 @@ you can check out this hassle-free version here:
 
 It runs smoothly without needing a database or server — perfect for testing UI and design!
 
- ## About:
+ ## 🧠 About the Project
  
  working on a full-stack E-Commerce app with:
 
