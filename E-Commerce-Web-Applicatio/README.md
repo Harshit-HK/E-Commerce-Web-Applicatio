@@ -10,6 +10,18 @@ you can check out this hassle-free version here:
 
 It runs smoothly without needing a database or server — perfect for testing UI and design!
 
+## 📽️ Demo Video on LinkedIn
+
+Check out a short walkthrough of this e-commerce project on LinkedIn:
+
+🔗 [Watch Video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7334937548793761792/)
+
+This video showcases:
+- Product listing and filtering
+- Add to cart functionality
+- Responsive design using React + Tailwind CSS
+- User-friendly UI/UX
+
  ## 🧠 About the Project
  
  working on a full-stack E-Commerce app with:
