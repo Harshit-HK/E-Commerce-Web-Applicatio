@@ -36,7 +36,7 @@ Image Hosting: Cloudinary
 
 Auth: Admin login with .env credentials
 
-Payments: You mentioned using Stripe
+Payments: Using Stripe
 
 Plus: You're managing product CRUD, admin panel, etc.
 
