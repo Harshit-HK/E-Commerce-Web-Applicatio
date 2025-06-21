@@ -11,5 +11,5 @@ npm install
 VITE_BACKEND_URL = 'http://localhost:4000' 
 ```
 
-## ✅ Step 3: Run the Frontend
+## ✅ Step 3: Run the Admin
 npm run dev
