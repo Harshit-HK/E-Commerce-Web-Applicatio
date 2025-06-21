@@ -1,5 +1,5 @@
 # 🚀 How to Run FRONTEND
-Follow the steps below to set up and run the admin panel:
+Follow the steps below to set up and run the frontend panel:
 
 ## ✅ Step 1: Install Dependencies in the frontend  
 
